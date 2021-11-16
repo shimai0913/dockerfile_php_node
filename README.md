@@ -20,7 +20,7 @@ v16.13.0
 ## exec commands
 .envを作成、編集
 
-`copy .env.example .env`
+`cp .env.example .env`
 
 image作成
 
