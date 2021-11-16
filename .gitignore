@@ -1,5 +1,5 @@
 .env
 .DS_Store
 src/
-nginx/
+nginx_log/
 phpmyadmin/
