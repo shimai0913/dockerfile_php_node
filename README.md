@@ -22,6 +22,8 @@ v16.13.0
 
 `cp .env.example .env`
 
+`vim .env`
+
 image作成
 
 `docker compose build`
