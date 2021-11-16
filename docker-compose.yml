@@ -28,7 +28,7 @@ services:
       - app
     volumes:
       - ./src/:/var/www/html
-      - ./nginx/:/var/log/nginx
+      - ./nginx_log/:/var/log/nginx
 
   db:
     build:
